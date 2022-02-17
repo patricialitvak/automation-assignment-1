@@ -25,22 +25,22 @@ You wrote the following notes to yourself:
 2. Index 0 is the most important email
 3. N-1 is the least important email
 4. You may assume that your inbox might contain up to N emails
-5. If another email arrives, when the box is already full, and incoming email's priority is higher than least important email one, than the least important one, than email is dropped and email box is reorganized.
+5. If another email arrives, when the box is already full, and incoming email's priority is higher than least important email one, than the least important email is dropped and email box is reorganized.
 6. Priority is a number in the range [0,1] (including 0 and 1)
-7. Email box should be always reorganized according to the priority metric/
-8. You can calculate the prioiry of an email depending on 3 different characteristics of the email subject.
-9. Here are some ideas what might be condiered as a good characteristic:
+7. Email box should be always reorganized according to the priority metric
+8. You can calculate the prioiry of an email depending on 3 different characteristics. You are allowed you use the email subject as input.
+9. Here are some ideas what might be considered as a good characteristics:
    
-    a. Title contains the word "pririty" of the message and it is one of the following: [low | medium | high]
+    a. Title contains the word "pririty" and it might be one of the following: [low | medium | high]
 
     b. Number of attached files in the email
 10. The priority is a weighted sum of the characteristics.
 
-Todo:
+Todo (Each section is dependent on the previous one)
 1. Suggest 3 proper characteristics (you can use section 9)
 2. Provide a test suite for amy.py
 
-3. The provided test suite didn't help the developer. Use the test suite that you provided and implement amy.py
+3. The provided test suite didn't help the developer. Use the test suite that you provided and implement AMY
  
 
 
