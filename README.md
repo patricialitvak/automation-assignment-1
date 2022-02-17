@@ -46,7 +46,7 @@ You wrote the following notes to yourself:
 3. The provided test suite didn't help the developer. Use the test suite that you provided and implement AMY
  
 
-
+---
 ### E2E Testing
 Steps 1-4 do not require any automation - you can do them manually
 
