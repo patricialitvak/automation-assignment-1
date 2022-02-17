@@ -36,7 +36,7 @@ You wrote the following notes to yourself:
     b. Number of attached files in the email
 10. The priority is a weighted sum of the characteristics.
 
-Todo (Each section is dependent on the previous one)
+**Todo (Each section is dependent on the previous one)**
 1. Suggest 3 proper characteristics (you can use section 9)
 2. Provide a test suite for amy.py
 
