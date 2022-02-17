@@ -10,9 +10,9 @@ Make sure to run your tests before you submit to see that you pass all of them
 
 ### Unit Testing
 
-Before you begin, please read the following:
-[post-1](https://medium.com/@johncol/test-driven-development-and-angular-9110d62ce7ec)
-[post-2](https://hackernoon.com/what-is-so-wrong-with-tdd-aa60112aadd0)
+Before you begin, please read the following: \
+[post-1](https://medium.com/@johncol/test-driven-development-and-angular-9110d62ce7ec) \
+[post-2](https://hackernoon.com/what-is-so-wrong-with-tdd-aa60112aadd0) \
 [post-3](https://www.agilealliance.org/glossary/tdd#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
 
 1. We strongly suggest that your implementation should take into account TDD approach.
@@ -21,7 +21,7 @@ Before you begin, please read the following:
 
 ___
 #### Product requests a new feature called AMY. It intercepts emails coming in and prioritizing them according to a predefined metric.
-The developer struggles with the requirements and implementation, so after reading about the TDD approach you suggest that you will translate product's requirements to unit tests.
+The developer struggles with the requirements and implementation, so after reading about the TDD approach you suggest that you will translate product's requirements into unit tests.
 
 You wrote the following notes to yourself:
 1. Each email coming into the system should have a priority, indicating the index of the message.
