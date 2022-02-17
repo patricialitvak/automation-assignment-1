@@ -49,7 +49,7 @@ Steps 1-4 do not require any automation - you can do them manually
 
 Steps 5-10 require automation - you should implement this in code
 
-1. Open a browser of your choice say Mozilla Firefox using Gecko Driver
+1. Open a browser of your choice say Mozilla Firefox
 2. Navigate to Gmail (https://www.gmail.com)
 3. Create a gmail account
 4. Using this account, subscribe to multiple services so that the inbox will be filled with promotion emails.
