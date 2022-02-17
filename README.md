@@ -53,7 +53,7 @@ Steps 5-10 require automation - you should implement this in code
 2. Navigate to Gmail (https://www.gmail.com)
 3. Create a gmail account
 4. Using this account, subscribe to multiple services so that the inbox will be filled with promotion emails.
-5. Please provide credentials for this account, so we will be able to access it.
+5. Please provide credentials in your solution for this account, so we will be able to access it.
 ____
 5. Login to this Gmail with correct credentials.
 6. Verify that “Promotion” section is selected.
