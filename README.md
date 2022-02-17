@@ -31,7 +31,7 @@ You wrote the following notes to yourself:
 8. You can calculate the prioiry of an email depending on 3 different characteristics. You are allowed to use the email subject as input.
 9. Here are some ideas what might be considered as a good characteristics:
    
-    a. Title contains the word "priority" and it might be one of the following: [low | medium | high]
+    a. Title contains the word "priority:<PRIORITY_LEVEL>". PRIORITY_LEVEL might be one of the following: [low | medium | high]
 
     b. Number of attached files in the email
 10. The priority is a weighted sum of the characteristics.
