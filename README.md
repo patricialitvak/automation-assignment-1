@@ -28,7 +28,7 @@ You wrote the following notes to yourself:
 5. If another email arrives, when the box is already full, and incoming email's priority is higher than least important email one, than the least important email is dropped and email box is reorganized.
 6. Priority is a number in the range [0,1] (including 0 and 1)
 7. Email box should be always reorganized according to the priority metric
-8. You can calculate the prioiry of an email depending on 3 different characteristics. You are allowed you use the email subject as input.
+8. You can calculate the prioiry of an email depending on 3 different characteristics. You are allowed to use the email subject as input.
 9. Here are some ideas what might be considered as a good characteristics:
    
     a. Title contains the word "pririty" and it might be one of the following: [low | medium | high]
